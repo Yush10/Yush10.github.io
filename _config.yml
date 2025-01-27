@@ -1,4 +1,5 @@
 title: Aayush Munshi
+#logo: /assets
 
 description:
 Data Analyst Intern
@@ -10,4 +11,4 @@ aayushmunshi10@gmail.com
 
 
 
-theme: jekyll-theme-Architect
+theme: jekyll-theme-minimal
